@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #1e2227;
+  color: white;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 30px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.pink {
+  background-color: #d55075;
+}
+.blue {
+  background-color: #57a0b9;
+}
+.orange {
+  background-color: #fa903b;
+}
+.purple {
+  background-color: #7694f8;
+}
+.flash {
+  background-color: white;
+}
+.userflash {
+  background-color: rgb(0, 255, 4);
+}
